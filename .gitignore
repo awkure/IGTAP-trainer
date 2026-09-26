@@ -1,0 +1,5 @@
+*.pdb
+bin/
+obj/
+/IGTAP-PowerTrainer.exe
+release/*.exe
