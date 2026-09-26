@@ -1,10 +1,10 @@
 # IGTAP Power Trainer
 
-Memory trainer for the single-player game **IGTAP: an Incremental Game That's Also a Platformer** (`IGTAPfullGame.exe`). It attaches to the running process. The game binary is not modified on disk.
+Memory trainer for the single-player game **IGTAP: an Incremental Game That's Also a Platformer** (`IGTAPfullGame.exe`). It attaches to the running process. 
+
+Tested against `v1.0_launch_version`
 
 ## Run
-
-The executable is not in this repository. Build it first (see below), then:
 
 1. Start the game and load a save. The POWER panel can be closed; values still update.
 2. Run `release\IGTAP-PowerTrainer.exe`.
